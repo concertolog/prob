@@ -1,5 +1,4 @@
 <?php
 phpinfo();
-
-// NU VREAU
+scriu altceva
 ?>
