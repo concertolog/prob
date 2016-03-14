@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-scriu altceva
+??sa punem cod bun
 ?>
