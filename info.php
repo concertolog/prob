@@ -1,4 +1,4 @@
 <?php
 phpinfo();
-??sa punem cod bun
 ?>
+
